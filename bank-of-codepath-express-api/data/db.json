@@ -43,6 +43,48 @@
       "amount": "100",
       "description": "Something cool",
       "category": "Income"
+    },
+    {
+      "id": 6,
+      "postedAt": "2023-04-26T19:09:02.314Z",
+      "amount": "42",
+      "description": "desc",
+      "category": "cat"
+    },
+    {
+      "id": 7,
+      "postedAt": "2023-04-26T19:11:16.693Z",
+      "amount": "55",
+      "description": "y",
+      "category": "x"
+    },
+    {
+      "id": 8,
+      "postedAt": "2023-04-26T19:14:34.312Z",
+      "amount": "42",
+      "description": "DESCRIPTION",
+      "category": "CATEGORY"
+    },
+    {
+      "id": 9,
+      "postedAt": "2023-04-26T19:15:29.798Z",
+      "amount": "42",
+      "description": "aaa",
+      "category": "bbb"
+    },
+    {
+      "id": 10,
+      "postedAt": "2023-04-26T19:16:25.434Z",
+      "amount": "42",
+      "description": "Description goes here",
+      "category": "Category goes here"
+    },
+    {
+      "id": 11,
+      "postedAt": "2023-04-26T19:16:44.734Z",
+      "amount": "512",
+      "description": "Dollars is weird",
+      "category": "Huh"
     }
   ]
 }
